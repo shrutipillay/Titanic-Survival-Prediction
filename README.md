@@ -34,22 +34,6 @@ Logistic Regression
 
 ~81%
 
-## Project Structure
-
-Titanic-Survival-Prediction
-
-data/
-train.csv
-
-notebooks/
-Titanic_Prediction.ipynb
-
-model/
-model.pkl
-
-requirements.txt
-README.md
-
 ## How to Run
 
 1. Clone repository
