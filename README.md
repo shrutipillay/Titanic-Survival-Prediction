@@ -2,12 +2,6 @@
 
 Machine Learning project that predicts whether a passenger survived the Titanic disaster using Python and Scikit-Learn.
 
-## Dataset
-
-Dataset from Kaggle Titanic Competition
-
-https://www.kaggle.com/competitions/titanic/data
-
 ## Technologies Used
 
 * Python
